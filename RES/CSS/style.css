@@ -1,0 +1,72 @@
+.headDiv{
+    background-image: url(../IMG/Elohim.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.navLinks{
+    color: white;
+    padding: 0px;
+}
+
+.navBod{
+    font-size: 12px;
+    font-family: 'Segoe UI';
+    font-weight: 500;
+    border-radius: 25px;
+    margin: 2px;
+
+}
+.navBod:active{
+    color: black;
+    background-color: white;
+}
+
+.navBod:hover{
+    background-color: white;
+    color: black;
+}
+
+.headText{
+    color: white;
+}
+
+#sub-btn{
+    color: darkblue;
+    border-radius: 25px;
+    background-color: transparent;
+    border: 2px solid darkblue;
+}
+
+
+.test-card{
+    display: inline-flex;
+    border-radius: 30px;
+    width: 200px;
+    box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.test-foot{
+    border-radius: 10px;
+    margin: 30px;
+}
+
+.card-head{
+    padding-top: 30px;
+}
+
+.foot-item{
+    font-weight: 700;
+    font-size: 12px;
+    font-family: 'Segoe UI';
+    color: darkblue;
+    text-decoration: none;
+}
+
+.foot-item:hover,foot-item:active{
+    text-decoration: none;
+}
+
+.foot-logo{
+    width: 20px;
+}
